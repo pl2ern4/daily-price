@@ -1,0 +1,86 @@
+[
+    {
+        "id":0,
+        "category": "Fuel",
+        "price": 23.4,
+        "comodity": "diesel",
+        "date":"2021-02-20T04:19:18.749Z"
+    },
+    {
+        "id":1,
+        "category": "Fuel",
+        "price": 45.6,
+        "comodity": "petrol",
+        "date": "2021-02-20T04:19:56.749Z"
+    },
+    {
+        "id":2,
+        "category": "metal",
+        "price":56,
+        "comodity": "gold",
+        "date":"2021-02-20T07:19:18.749Z"
+    },
+    {
+        "id":3,
+        "category": "metal",
+        "price": 880,
+        "comodity": "silver",
+        "date": "2021-02-19T04:49:18.749Z"
+    },
+    {
+        "id":4,
+        "category": "food",
+        "price": 92,
+        "comodity": "pepper",
+        "date":"2020-01-13T04:49:18.749Z"
+    },
+    {
+        "id":5,
+        "category": "food",
+        "price": 67,
+        "comodity": "Cardmon",
+        "date":"2021-02-18T04:49:18.749Z"
+    },
+    {
+        "id":6,
+        "category": "food",
+        "price": 60,
+        "comodity": "Cardmon",
+        "date":"2021-02-19T04:49:18.749Z"
+    },
+    {
+        "id":7,
+        "category": "food",
+        "price": 60,
+        "comodity": "Cardmon",
+        "date":"2021-01-19T04:49:18.749Z"
+    },
+    {
+        "id":8,
+        "category": "metal",
+        "price": 61.2,
+        "comodity": "Brass",
+        "date":"2021-02-18T04:49:18.749Z"
+    },
+    {
+        "id":9,
+        "category": "metal",
+        "price": 67.8,
+        "comodity": "Tin",
+        "date":"2020-12-21T04:49:18.749Z"
+    },
+    {
+        "id":10,
+        "category": "metal",
+        "price": 70,
+        "comodity": "Tin",
+        "date":"2021-01-21T04:49:18.749Z"
+    },
+    {
+        "id":11,
+        "category": "metal",
+        "price": 67.6,
+        "comodity": "Copper",
+        "date":"2020-12-21T04:49:18.749Z"
+    }
+]
