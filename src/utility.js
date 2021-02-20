@@ -19,7 +19,7 @@ const getChangedRates = param =>{
     return changedId;
 }
 
-export const getDate = (params="") => (new Date(params)).toDateString();
+export const getDate = params => (params && new Date(params) || new Date()).toDateString();
 
 export const sortByDate = array =>array.sort((a,b)=>new Date(a.date) - new Date(b.date)>1 && -1 || 1);
 

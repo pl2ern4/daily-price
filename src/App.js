@@ -42,7 +42,7 @@ function App() {
     }
     return (
       <select onChange={e=>handleFilter({key:type, value:e.target.value, e})} name={type} defaultValue="disable">
-          <option value="disable" selected disabled='disabled'>Select {value}</option>
+          <option value="disable" disabled='disabled'>Select {value}</option>
           {selectOption && selectOption.map((obj,key)=><option key={`option_${type}_${key}`} value={obj}>{obj}</option>)}
       </select>
     )
